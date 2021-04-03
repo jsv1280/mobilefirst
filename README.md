@@ -15,7 +15,7 @@
 
 ## :airplane: Deploy
 
-[Landing website demo](https://theunemployedprogrammer.com/portfolio/responsive-mobile-first)
+[Landing website demo](https://jsv1280.github.io/mobilefirst/)
 
 ## :trophy: Certification
 
