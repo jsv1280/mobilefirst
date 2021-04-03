@@ -98,7 +98,7 @@ header img {
     width: 13px;
     height: 8px;
     margin-left: 10px;
-    background-image: url('./assets/icons/arrow-down.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/arrow-down.svg');
 }
 main {
     width: 100%;
@@ -126,7 +126,7 @@ main {
     height: 200px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('./assets/imgs/bitcoin.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/imgs/bitcoin.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -223,7 +223,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url('./assets/icons/trending-down.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/trending-down.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -234,7 +234,7 @@ main {
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url('./assets/icons/trending-up.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/trending-up.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -282,7 +282,7 @@ main {
     height: 25px;
     top: -10px;
     left: calc(50% - 20px);
-    background-image: url('./assets/icons/patata.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/patata.svg');
 }
 
 .product-detail--title {
@@ -327,7 +327,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('./assets/icons/clock.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/clock.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -353,7 +353,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('./assets/icons/eye.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/eye.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -364,7 +364,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('./assets/icons/dollar-sign.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/dollar-sign.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -375,7 +375,7 @@ main {
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url('./assets/icons/check-circle.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/check-circle.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -385,7 +385,7 @@ main {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url('./assets/imgs/bitcoinbaby.png');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/imgs/bitcoinbaby.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -510,7 +510,7 @@ main {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url('./assets/icons/arrow-right.svg');
+    background-image: url('https://theunemployedprogrammer.com/responsive-design-mobile-first/icons/arrow-right.svg');
     vertical-align: text-bottom;
 }
 
