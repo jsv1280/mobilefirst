@@ -164,6 +164,15 @@ main {
     color: var(--bitcoin-orange);
 }
 
+.main-currency-table .currency-table--title-commission{
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 2.3rem;
+    color: var(--secondary-blue);
+
+}
+
 .currency-table--container {
     width: 90%;
     min-width: 230px;
@@ -238,6 +247,16 @@ main {
     margin-top: 15px;
     padding: 8px;
     background-color: var(--soft-orange);
+    border-radius: 8px;
+}
+
+.currency-table--date-commission {
+    width: 190px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    background-color: var(--soft-blue);
     border-radius: 8px;
 }
 
